@@ -24,4 +24,14 @@ Project Highlights
 ______________________
 # Visualization Snapshot
 Here's a glimpse of the NetflixViz Tableau dashboard, showcasing an intuitive interface for in-depth content analysis. Immerse yourself in the world of Netflix, where data-driven insights meet an engaging user experience.
+
+-----
 ![Netflix Dashboard](https://github.com/Amarachijeremiah/NetflixVid-Tableau/assets/157923556/e118e99e-0acc-4324-8fcc-cb141f54c8ef)
+
+____________________
+## Contributing
+ Contributions and enhancements to the project are warmly welcomed.
+_______________________
+## Connect With Me
+### LinkedIn: [Gold Jeremiah](https://www.linkedin.com/in/amarachi-jeremiah-74ba112a7/)
+Explore, analyze, and discover the world of Netflix with the NetflixVid-TableauDashboard.
